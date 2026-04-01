@@ -1,0 +1,21 @@
+{
+  "name": "@bunny-editor/smooth-fit-curve",
+  "version": "1.0.0",
+  "description": "Fit cubic Bezier curves to freehand points using Schneider's algorithm",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["bezier", "curve-fitting", "freehand", "drawing", "svg", "pen-tool", "schneider", "typescript"],
+  "author": "Pritam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bunny-Editor/smooth-fit-curve.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
