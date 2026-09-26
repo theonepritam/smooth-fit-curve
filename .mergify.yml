@@ -1,0 +1,6 @@
+priority_rules:
+  - name: hotfix
+    priority: low
+    conditions:
+      - label = hotfix
+    allow_checks_interruption: true
