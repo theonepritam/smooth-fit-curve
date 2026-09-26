@@ -1,0 +1,3 @@
+merge_queue:
+  skip_intermediate_results: true
+  mode: isolated
